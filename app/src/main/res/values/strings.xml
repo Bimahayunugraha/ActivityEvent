@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pertemuan Kedua Event</string>
+    <string name="text_icon">Icon Login</string>
+    <string name="login">LOGIN</string>
+    <string name="text_Email">Email</string>
+    <string name="text_Password">Password</string>
+    <string name="button_signin">SIGN IN</string>
+    <string name="hasil">HASIL</string>
+</resources>
